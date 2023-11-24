@@ -1,5 +1,5 @@
 Hospital 1, Hospital e Maternidade Bauru
-Hospital 2, Avenida Barão de Itapura, Hospital e Maternidade Renascença de Campinas
+Hospital 2, Hospital e Maternidade Renascença de Campinas
 Hospital 3, Hospital e Maternidade Paulo Sacramento
 Hospital 4, Hospital e Maternidade Guarulhos
 Hospital 5, Hospital e Maternidade Medical
