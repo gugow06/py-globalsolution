@@ -54,7 +54,7 @@ O QuickCare tem potencial para revolucionar o atendimento emergencial no Brasil.
 
 ---
 
-# Links Úteis
+# Links úteis
 
 https://youtu.be/wpf_C0_S7n4
 
